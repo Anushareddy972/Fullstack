@@ -22,5 +22,6 @@ public class PrimeNumber {
         else {
             System.out.println(n+" "+"is not a prime number");
         }
+        System.out.println("Anusha");
     }
 }
