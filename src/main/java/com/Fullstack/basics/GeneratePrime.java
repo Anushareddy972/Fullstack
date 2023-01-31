@@ -33,7 +33,7 @@ public class GeneratePrime {
         else{
             System.out.println(n+" "+"is not a prime number");
         }
-
+        System.out.println("Chinni");
         return n;
     }
 }
