@@ -24,5 +24,6 @@ public class PrimeNumber {
         }
         System.out.println("Anusha");
         System.out.println("Pranavi");
+        System.out.println("Sukanya");
     }
 }
